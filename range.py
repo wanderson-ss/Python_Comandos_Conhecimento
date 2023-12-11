@@ -1,3 +1,4 @@
+"""
 Ranges:
 -conhecendo o loop for para usar os ranges
 -conhecendo o range pra trabalha melhor com os loops for
@@ -10,7 +11,7 @@ Formas gerais:
 range(valor_de_parada)
 
 obs: valor_De_parada não inclusive (incio padrão 0, e passo de 1 em 1)
-
+"""
 #Forma 1 ele irá começar de 0 até 10
 
 for num in range(11):
